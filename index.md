@@ -1,4 +1,5 @@
-## Educational development kit for high quality healthcare resources in hybrid (social and digital) environment (Kit di formativo per lo sviluppo di risorse di qualità in ambiente sociale e digitale per la sanità)
+## Educational development kit for high quality healthcare resources in a hybrid (social and digital) environment
+(Kit di formativo per lo sviluppo di risorse di qualità in ambiente sociale e digitale per la sanità)
 
 # Riferimenti metodologici: co-construction, devops, team and problem solving learning,
 
@@ -18,7 +19,7 @@ Kit features:
 - infographics
 -logos
 
-
+....more to come
 
 ## Welcome to GitHub Pages
 
