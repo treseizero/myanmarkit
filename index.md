@@ -1,3 +1,25 @@
+## Educational development kit for high quality healthcare resources in hybrid (social and digital) environment (Kit di formativo per lo sviluppo di risorse di qualità in ambiente sociale e digitale per la sanità)
+
+# Riferimenti metodologici: co-construction, devops, team and problem solving learning,
+
+# Obiettivo: participants will release a won fully functional and deliverable kit
+
+# Case study dimostrativo e template del kit: nosmoking kit (NSK ...nescafé :)))
+
+Kit features:
+- virtual tour of the prevention room at Luoghi di prevenzioni with symbols and insights
+- video trailer
+-check list
+-survey
+-evaluation questionnaire
+-insights from WHO guidelines
+-social media strategy
+-open source bootstraping theme website template on github
+- infographics
+-logos
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/treseizero/myanmarkit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
