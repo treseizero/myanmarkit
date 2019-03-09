@@ -1,11 +1,14 @@
 ## Educational development kit for high quality healthcare resources in a hybrid (social and digital) environment
 (Kit di formativo per lo sviluppo di risorse di qualità in ambiente sociale e digitale per la sanità)
 
-# Riferimenti metodologici: co-construction, devops, team and problem solving learning,
+# Riferimenti metodologici: 
+co-construction, devops, team and problem solving learning,
 
-# Obiettivo: participants will release a won fully functional and deliverable kit
+# Obiettivo: 
+participants will release a won fully functional and deliverable kit
 
-# Case study dimostrativo e template del kit: nosmoking kit (NSK ...nescafé :)))
+# Case study dimostrativo e template del kit: 
+nosmoking kit (NSK ...nescafé :)))
 
 Kit features:
 - virtual tour of the prevention room at Luoghi di prevenzioni with symbols and insights
