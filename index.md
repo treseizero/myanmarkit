@@ -18,6 +18,7 @@ Kit features:
 -open source bootstraping theme website template on github
 - infographics
 -logos
+-app https://support.gitkraken.com/developers/oauth/#creating-a-new-oauth-app
 
 ....more to come
 
